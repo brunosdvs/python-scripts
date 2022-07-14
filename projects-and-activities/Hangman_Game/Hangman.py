@@ -122,3 +122,8 @@ def main():
         game.guess(letter)
         
 main()
+
+
+#IMPLEMENTAR?
+## LETRA JÁ DIGITADA NÃO É COMPUTADA, NADA ACONTECE
+ 

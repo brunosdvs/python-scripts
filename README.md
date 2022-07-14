@@ -1,5 +1,7 @@
-# Python_Learning_Activities
+# Python Learning Activities
 
-In this repository are simple projects, developed in Python, during the course "Python - Data Analysis Fundaments 3.0" at Data Science Academy.
+EN
+In this repository you will find generic scripts put together by me that illustrate and document the various Python programming fundaments and artifacts I have learned throughout my studies, as well as simple projects and activities done to put them in practice.
 
-Neste repositório encontram-se projetos simples, desenvolvidos em Python, durante o curso "Python - Fundamentos Para Análise de Dados 3.0" da Data Science Academy.
+PT
+Neste repositório você encontra algoritmos genéricos feitos por mim que ilustram e documentam os vários fundamentos e artefatos da programação em Python que aprendi ao longo de meus estudos, assim como projetos e atividades simples executados para colocá-los em prática.
